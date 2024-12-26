@@ -1,3 +1,3 @@
 # sales-insight
 <br>
-authour Anika Tyagi
+authour Anika Tyagi(K)
